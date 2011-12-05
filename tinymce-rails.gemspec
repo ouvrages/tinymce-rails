@@ -1,7 +1,7 @@
 require File.expand_path('../lib/tinymce/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name = "tinymce-rails"
+  s.name = "ouvrages-tinymce-rails"
   s.version = TinyMCE::Rails::VERSION
   s.summary = "Rails asset pipeline integration for TinyMCE."
   s.description = "Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1."
